@@ -1,0 +1,123 @@
+
+$font-family: Arial;
+$text-color: white;
+$nav-b-color: black;
+
+*{
+    margin: 0;
+    padding: 15px;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+body {
+    background-image: url("https://img.freepik.com/free-photo/3d-grunge-room-interior-with-spotlight-smoky-atmosphere-background_1048-11333.jpg");
+    background-color: rgba(0, 0, 0, 0);
+    background-size: cover;
+    margin: 0;
+    font-family: $font-family;
+    overflow-y: scroll; 
+
+}
+
+nav{
+    position: relative;
+    width: 960px;
+    height: 50px;
+    background-color: rgba(82, 82, 82, 0.219);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+    a{
+        position: relative;
+        display: inline-block;
+        font-size: 0.8rem;
+        font-weight: 500;
+        color: $text-color;
+        text-decoration: none;
+        padding: 0 85px;
+        z-index: 1;
+}
+    span{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 95px;
+        height: 100%;
+        background: linear-gradient(45deg, orange);
+        border-radius: 8px;
+}
+}
+
+
+.head {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 200px; 
+}
+
+.content {
+    background-color: $text-color;
+    color: $nav-b-color;
+    padding: 20px;
+    min-height: 60vh;
+    width: 60rem; 
+    box-sizing: border-box;
+    margin: 0 auto; 
+
+        .text-block {
+            width: 80%;
+            max-width: 800px; 
+            margin: 0 auto;
+    }
+}
+
+.image-container {
+    border-radius: 20px; 
+    overflow: hidden; 
+}
+
+.image-container img {
+    display: block; 
+    width: 100%; 
+    margin-bottom: 10px; 
+}
+
+.copyright{
+    color: $text-color;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 5px;
+    text-align: center;
+}
+
+
+.search-bar-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background-color: transparent; 
+}
+
+.search-bar {
+    background-color: rgba(82, 82, 82, 0.219);
+    font-family: $font-family;
+    color: rgb(128, 128, 128);
+    border: none;
+    padding: 10px 20px; 
+    border-radius: 20px; 
+    width: 250px; 
+    outline: none; 
+}
+
+
+.doly-logo{
+    margin-left: 4.5rem;
+}

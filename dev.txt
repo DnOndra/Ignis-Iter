@@ -1,0 +1,73 @@
+		|>	ŠKOLNÍ PROJEKT - PRAXE - O. KVAPIL	<|
+
+3. 2. 2024 > 4. 2. 2024 - přemýšlení a hledání inspirace na zrealizování jednoduchého informačního webu. 
+
+5. 2. 2024 - založeny soubory .html, .css, .scss a začátek vývoje na webové stránce 
+	> vyhledání barev využitelné na stránce
+	> přizpůsobení webu ke scrollovacímu
+	> nastahování několik obrázku týkající se témata, které bylo od začátku zvolené
+	> základ html (html:5) a propojení .html s .scss (link rel="stylesheet" href="ignis.css")
+	> vložení loga na stránku a vycentrování veškerých souborů na daná místa 
+
+6. 2. 2024 - pokračování ve vývoji a v přemýšlení nad realizací webu. 
+	> nastaveno pozadí na lineární (black, orange)
+	> vyhrání si s prvotním designem stránky (font-family, font-size, text-align + another)
+	> přidání prvotního textu s výplní Lorem Ipsum a odzkoušení pozicování textu (jestli je vše správně)
+	> přidání sekce informace s prvotním vyplněním textu za pomocí Lorem Ipsum (bude doplněno normálně)
+	> přidán copyright na stránku (@) 
+	
+
+7. 2. 2024 - pokračování ve vývoji a prvotní využití obrázků
+	> nahrány obrázky
+	> obrázky jsou v takovém rámečku, který lze scrollovat (scroll-bar)
+	> obrázky mají stejné velikosti a proběhlo nastavení velikosti rámečku, ve kterém se nachází
+	> nastavení pozadí rámečku na lineární (opět black, orange)
+	> oprava pozicování (při vložení rámečku se mi to nějak porozbíjelo, tak bylo potřeba to opravit)
+
+
+8. 2. 2024 - pokračování ve vývoji projektu
+    > odsazeí bílého rámečku od stran
+    > doplnění pár fotografií  
+    > přidán funkční navigation bar který ještě probíhá úpravami   
+    > přidána ikonka do titlu stránky (favicon.ico)
+    
+
+22. 2. 2024 - pokračování ve vývoji projektu
+    > přidána sekce "Obchodní partneři"
+    > pozměnění backgroundu (barvy)
+    > přidána loga obchodních partnerů do sekce "Obchodní partneři"
+    > přidán obrázek do první sekce (Uvítání), který byl zrotován o 180 stupňů
+    > větší mezery v nav baru
+    > do nav baru přidán search bar
+    
+29. 2. 2024 - pokračování ve vývoji projektu
+    > upraven search-bar (přesunut nahoru do pravého rohu a průhednost)
+    > změna obrázků (odstraněn scroll-bar a nahrazen normální obrázky)
+    > změna kontejneru (změna velikosti)
+    > změna sponzorů
+    > změna pozadí (přidán obrázek)
+    > změna barvy a funkčnost navbaru
+    
+
+
+7. 3. 2024 - pokračování ve vývoji projektu
+	> přidán JS
+	> při najetí kurzorem na veškeré obrázky se zvětší a poté opět zmenší
+	> přidána ikonka formuláře vlevo nahoře, na kterou když se klikne, tak to návštěvníka přesměruje rovnou na google formulář 
+	> při kliknutí na logo Ignis Iter uživatele přesměruje na stránku facebooku (II)
+	> při kliknutí na logo sponzorů přesměruje uživatele na jejich webové stránky	
+	> při najetí na nav-bar se ukáže oranžová barva a pak opět zmizne
+	> při psaní do search-baru se z průhledné barvy objeví oranžová
+	> + nespočet dalších vymožeností 
+
+BUCKET LIST
+-------------------
+
+Vyplnit text. 
+
+
+    
+    
+
+
+
